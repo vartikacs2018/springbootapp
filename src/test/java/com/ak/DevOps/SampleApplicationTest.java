@@ -1,4 +1,4 @@
-package nl.revolution.example;
+package com.ak.DevOps;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
